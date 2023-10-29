@@ -1,0 +1,49 @@
+const String json ='''
+"data": [
+    {
+        "id": 1,
+        "nombrePlato": "Tarta de Naranja",
+        "preparacion": "<b>Cómo hacer tarta de naranja</b>
+
+        Para preparar la tarta de naranja, en primer lugar engrasamos y forramos el molde. Para ello, podemos usar papel vegetal y spray desmoldante o bien, un poquito de alguna grasa que tengamos como mantequilla.
+        
+        <b>Consejos</b>
+        Te saldrá muy buena si le pones miel.
+        ",
+    },
+    {
+        "id": 2,
+        "nombrePlato": "Paella Valenciana",
+        "preparacion": "<b>¿Cuál es el mejor arroz para hacer paella?</b>
+
+        El arroz es el principal ingrediente de la paella, motivo por el cual no se debe escatimar en él. Un buen arroz por sí solo no va a proporcionarnos una paella perfecta, sin embargo, las mejores paellas están hechas con buenos arroces. Para cocinar una auténtica paella valenciana debemos utilizar un arroz con la denominación de origen Arròs de València y, además, debemos controlar este aspecto mediante la localización del sello del Consell Regulador en el paquete del arroz elegido, ya que todavía existen arroces autodenominados específicos para paella, que carecen de esta denominación y que muchas veces, ni siquiera son valencianos. El arroz para la paella debe ser de grano medio y de aspecto perlado. El tamaño de los granos debe ser homogéneo y todos deben ser de la misma variedad, sin mezclas.
+        
+        <b>Consejos</b>
+        Te saldrá muy buena si le pones poca sal.
+        ",
+    },
+    {
+        "id": 4,
+        "nombrePlato": "Alcachofas a la Plancha",
+        "preparacion": "<b>Cómo hacer petit suise</b>
+
+        Ponemos en un cazo 80 gramos de azúcar blanco junto con 50 gramos de nata para montar. Calentamos hasta que se disuelva el azúcar, sin necesidad de que llegue a hervir. Si utilizamos mermelada en lugar de fresas, no sería necesario añadir azúcar.
+
+        <b>Consejos</b>
+        Te saldrá muy bueno si le pones salsa de tomate.
+        ",
+    },
+    {
+        "id": 5,
+        "nombrePlato": "Petit Suisse",
+        "preparacion": "<b>Cómo hacer crepes</b>
+
+        En un bol amplio, ponemos 250 g de harina de trigo con media cucharadita de sal y 1 cucharada de azúcar.
+
+        <b>Consejos</b>
+        Te saldrá muy bueno si le pones un racimo de uva.
+        ",
+    },
+
+]
+''';
